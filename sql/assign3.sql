@@ -1,33 +1,3 @@
--- assignment 3
-
-
-
--- solve following queries using sales database
--- Write a query that produces all rows from the Customers table for which the salesperson’s number
--- is 1001
-
--- Write a select command that produces the rating followed by the name of each customer in San
--- Jose
-
--- Write a query that will produce the snum values of all salespeople from the Orders table (with the
--- duplicate values suppressed)
-
--- Write a query that will give you all orders for more than Rs. 1,000
--- Write a query that will give you the names and cities of all salespeople in London with a
--- commission above 0.10
-
--- Write a query on the Customers table whose output will exclude all customers with a rating <=
--- 100, unless they are located in Rome
--- What will be the output from the following query? Select * from Orders
--- where (amt < 1000 OR
--- NOT (odate = ‘1990-10-03’
--- AND cnum > 2003));
-
--- What will be the output of the following query?
-
--- Select * from Orders
--- where NOT ((odate = ‘1990-10-03’ OR snum >1006) AND amt >= 1500)
--- Write a query that selects all orders except those with zeroes or NULLs in the amt field.
 
 
 
@@ -67,6 +37,47 @@
 -- select * from salespeople;
 -- select * from customers;
 -- select * from orders;
+
+
+
+
+
+
+-- assignment 3
+
+
+
+-- solve following queries using sales database
+-- Write a query that produces all rows from the Customers table for which the salesperson’s number
+-- is 1001
+
+-- Write a select command that produces the rating followed by the name of each customer in San
+-- Jose
+
+-- Write a query that will produce the snum values of all salespeople from the Orders table (with the
+-- duplicate values suppressed)
+
+-- Write a query that will give you all orders for more than Rs. 1,000
+-- Write a query that will give you the names and cities of all salespeople in London with a
+-- commission above 0.10
+
+-- Write a query on the Customers table whose output will exclude all customers with a rating <=
+-- 100, unless they are located in Rome
+-- What will be the output from the following query? Select * from Orders
+-- where (amt < 1000 OR
+-- NOT (odate = ‘1990-10-03’
+-- AND cnum > 2003));
+
+-- What will be the output of the following query?
+
+-- Select * from Orders
+-- where NOT ((odate = ‘1990-10-03’ OR snum >1006) AND amt >= 1500)
+-- Write a query that selects all orders except those with zeroes or NULLs in the amt field.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------
 
 
 -- Write a query that selects all orders except those with zeroes or NULLs in the amt field.

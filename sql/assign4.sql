@@ -1,35 +1,4 @@
--- assignment 4
 
-
--- To solve below queries use "hr" database
-
--- Write a query to get unique department ID from employee table.
-
--- Write a query to get all employee details from the employee table order by first name, descending.
-
--- Write a query to get the employee ID, names (first_name, last_name), salary in ascending order of
--- salary.
-
--- Display first name and join date of the employees who is either IT Programmer or Sales Man.
-
--- Display details of employee with ID 150 or 160.
-
--- Display first name, salary, commission pct, and hire date for employees with salary less than 10000.
-
--- Display employees where the first name or last name starts with S.
-
--- Display details of jobs in the descending order of the title.
-
--- Display details of the employees where commission percentage is null and salary in the range 5000
--- to 10000 and department is 30.
-
--- Display employees first_name,email who are working in “Executive” department.
-
--- Display unique contry_id from locations table.
-
--- Display all employees whose have job_id IT_PROG and FI_ACCOUNT.
-
--- Display all countries in ascending order.
 
 
 
@@ -347,6 +316,44 @@
 
 
 
+
+
+-- assignment 4
+
+
+-- To solve below queries use "hr" database
+
+-- Write a query to get unique department ID from employee table.
+
+-- Write a query to get all employee details from the employee table order by first name, descending.
+
+-- Write a query to get the employee ID, names (first_name, last_name), salary in ascending order of
+-- salary.
+
+-- Display first name and join date of the employees who is either IT Programmer or Sales Man.
+
+-- Display details of employee with ID 150 or 160.
+
+-- Display first name, salary, commission pct, and hire date for employees with salary less than 10000.
+
+-- Display employees where the first name or last name starts with S.
+
+-- Display details of jobs in the descending order of the title.
+
+-- Display details of the employees where commission percentage is null and salary in the range 5000
+-- to 10000 and department is 30.
+
+-- Display employees first_name,email who are working in “Executive” department.
+
+-- Display unique contry_id from locations table.
+
+-- Display all employees whose have job_id IT_PROG and FI_ACCOUNT.
+
+-- Display all countries in ascending order.
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
 
 
 
