@@ -1,0 +1,15 @@
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\bin\Debug\net6.0\Assignment2OfDotNet.exe
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\bin\Debug\net6.0\Assignment2OfDotNet.deps.json
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\bin\Debug\net6.0\Assignment2OfDotNet.runtimeconfig.json
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\bin\Debug\net6.0\Assignment2OfDotNet.dll
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\bin\Debug\net6.0\Assignment2OfDotNet.pdb
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.AssemblyInfoInputs.cache
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.AssemblyInfo.cs
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.dll
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\refint\Assignment2OfDotNet.dll
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.pdb
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\Assignment2OfDotNet.genruntimeconfig.cache
+C:\Users\Kanak.Kini\source\repos\Assignment2OfDotNet\obj\Debug\net6.0\ref\Assignment2OfDotNet.dll
