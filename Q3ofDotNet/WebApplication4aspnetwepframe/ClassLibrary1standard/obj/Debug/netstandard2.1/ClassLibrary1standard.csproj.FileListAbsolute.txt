@@ -1,0 +1,10 @@
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\bin\Debug\netstandard2.1\ClassLibrary1standard.deps.json
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\bin\Debug\netstandard2.1\ClassLibrary1standard.dll
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\bin\Debug\netstandard2.1\ClassLibrary1standard.pdb
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.AssemblyInfoInputs.cache
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.AssemblyInfo.cs
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.dll
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1standard\obj\Debug\netstandard2.1\ClassLibrary1standard.pdb

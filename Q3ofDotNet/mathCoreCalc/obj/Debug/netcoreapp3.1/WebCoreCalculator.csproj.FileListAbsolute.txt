@@ -1,0 +1,49 @@
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.AssemblyInfo.cs
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.exe
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.deps.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.runtimeconfig.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.runtimeconfig.dev.json
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\WebCoreCalculator.StaticWebAssets.Manifest.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.CopyComplete
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.dll
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.pdb
+C:\Users\Shivam.Yadav\Desktop\New folder\C#\.Net,.Net Core6\Assignment3\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.genruntimeconfig.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.exe
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.deps.json
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.runtimeconfig.json
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.runtimeconfig.dev.json
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.dll
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\WebCoreCalculator.pdb
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.dll
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\bin\Debug\netcoreapp3.1\ArithmeticCoreLib.pdb
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.AssemblyInfoInputs.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.AssemblyInfo.cs
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\WebCoreCalculator.StaticWebAssets.Manifest.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\WebCoreCalculator.StaticWebAssets.Pack.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebCoreCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebCoreCalculator.props
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebCoreCalculator.props
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebCoreCalculator.props
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.csproj.CopyComplete
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.dll
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.pdb
+C:\Users\Kanak.Kini\Downloads\WebCoreCalculator\obj\Debug\netcoreapp3.1\WebCoreCalculator.genruntimeconfig.cache

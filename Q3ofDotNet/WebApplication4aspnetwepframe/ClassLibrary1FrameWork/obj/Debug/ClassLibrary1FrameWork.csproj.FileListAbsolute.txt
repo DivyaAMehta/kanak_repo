@@ -1,0 +1,6 @@
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\bin\Debug\ClassLibrary1FrameWork.dll
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\bin\Debug\ClassLibrary1FrameWork.pdb
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\obj\Debug\ClassLibrary1FrameWork.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\obj\Debug\ClassLibrary1FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\obj\Debug\ClassLibrary1FrameWork.dll
+C:\Users\Kanak.Kini\source\repos\WebApplication4aspnetwepframe\ClassLibrary1FrameWork\obj\Debug\ClassLibrary1FrameWork.pdb
