@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yh8uzKkb4qgsSqtVtBTU9eDiPoV9pg//MWYipK8jhz2lVBITOWbjDXNRKJJtNpgM9zjq0mtE1d3pTic2c5xifQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kanak.Kini\\Desktop\\vsCode\\Q4ofDotNet\\WebApplication3forCalcdotNetSwagger\\WebApplication3forCalcdotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\classlibrary1fornuget\\1.0.0\\classlibrary1fornuget.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\classlibrarycalcapp\\1.0.0\\classlibrarycalcapp.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kanak.Kini\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
