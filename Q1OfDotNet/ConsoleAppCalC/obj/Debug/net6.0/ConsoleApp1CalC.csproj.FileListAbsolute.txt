@@ -1,0 +1,15 @@
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\bin\Debug\net6.0\ConsoleApp1CalC.exe
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\bin\Debug\net6.0\ConsoleApp1CalC.deps.json
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\bin\Debug\net6.0\ConsoleApp1CalC.runtimeconfig.json
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\bin\Debug\net6.0\ConsoleApp1CalC.dll
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\bin\Debug\net6.0\ConsoleApp1CalC.pdb
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.AssemblyInfoInputs.cache
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.AssemblyInfo.cs
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.dll
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\refint\ConsoleApp1CalC.dll
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.pdb
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ConsoleApp1CalC.genruntimeconfig.cache
+C:\Users\Kanak.Kini\source\repos\ConsoleApp1CalC\obj\Debug\net6.0\ref\ConsoleApp1CalC.dll
