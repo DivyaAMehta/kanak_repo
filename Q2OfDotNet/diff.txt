@@ -1,0 +1,2 @@
+framework has config file
+console do not have it
