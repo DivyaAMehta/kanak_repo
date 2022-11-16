@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMathOps", "WebMathOps.csproj", "{735E6308-E321-4B81-8593-D2BAE5F84C45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMathOpsLib", "..\ArithmeticCoreLib\WebMathOpsLib.csproj", "{3A1CCD0F-DC45-4C87-B2B4-4158504EF200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{735E6308-E321-4B81-8593-D2BAE5F84C45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735E6308-E321-4B81-8593-D2BAE5F84C45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735E6308-E321-4B81-8593-D2BAE5F84C45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735E6308-E321-4B81-8593-D2BAE5F84C45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1CCD0F-DC45-4C87-B2B4-4158504EF200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1CCD0F-DC45-4C87-B2B4-4158504EF200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1CCD0F-DC45-4C87-B2B4-4158504EF200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1CCD0F-DC45-4C87-B2B4-4158504EF200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA582898-1982-4207-BF81-64AEEFC0A689}
+	EndGlobalSection
+EndGlobal
