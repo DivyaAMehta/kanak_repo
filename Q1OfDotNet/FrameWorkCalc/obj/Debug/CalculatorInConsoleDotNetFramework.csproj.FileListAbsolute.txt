@@ -1,0 +1,8 @@
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\bin\Debug\CalculaterInConsoleDotNetFramework.exe.config
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\bin\Debug\CalculaterInConsoleDotNetFramework.exe
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\bin\Debug\CalculaterInConsoleDotNetFramework.pdb
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\obj\Debug\CalculatorInConsoleDotNetFramework.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\obj\Debug\CalculatorInConsoleDotNetFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\obj\Debug\CalculatorInConsoleDotNetFramework.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\obj\Debug\CalculaterInConsoleDotNetFramework.exe
+C:\Users\Kanak.Kini\source\repos\CalculaterInConsoleDotNetFramework\obj\Debug\CalculaterInConsoleDotNetFramework.pdb
