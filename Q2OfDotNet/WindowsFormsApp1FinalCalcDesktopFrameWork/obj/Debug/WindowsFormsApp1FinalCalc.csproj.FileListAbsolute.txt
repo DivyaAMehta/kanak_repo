@@ -1,0 +1,11 @@
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\bin\Debug\WindowsFormsApp1FinalCalc.exe.config
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\bin\Debug\WindowsFormsApp1FinalCalc.exe
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\bin\Debug\WindowsFormsApp1FinalCalc.pdb
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.Form1.resources
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.Properties.Resources.resources
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.csproj.GenerateResource.cache
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.exe
+C:\Users\Kanak.Kini\source\repos\WindowsFormsApp1FinalCalc\obj\Debug\WindowsFormsApp1FinalCalc.pdb
