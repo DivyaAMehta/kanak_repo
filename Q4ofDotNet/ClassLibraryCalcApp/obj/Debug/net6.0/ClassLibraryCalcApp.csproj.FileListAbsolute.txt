@@ -1,0 +1,12 @@
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\bin\Debug\net6.0\ClassLibraryCalcApp.deps.json
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\bin\Debug\net6.0\ClassLibraryCalcApp.dll
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\bin\Debug\net6.0\ClassLibraryCalcApp.pdb
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.csproj.AssemblyReference.cache
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.AssemblyInfoInputs.cache
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.AssemblyInfo.cs
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.csproj.CoreCompileInputs.cache
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.dll
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\refint\ClassLibraryCalcApp.dll
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ClassLibraryCalcApp.pdb
+C:\Users\Kanak.Kini\Desktop\vsCode\Q4ofDotNet\ClassLibraryCalcApp\obj\Debug\net6.0\ref\ClassLibraryCalcApp.dll
