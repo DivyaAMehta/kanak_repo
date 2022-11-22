@@ -1,9 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
+﻿using EntityFrameworkCore.Model;
+using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
-using WebApplication2.Model;
 
-namespace WebApplication2.Context
+namespace EntityFrameworkCore.Context
 {
     public class ApplicationDbContext : DbContext, IApplicationDbContext
     {
@@ -11,7 +10,7 @@ namespace WebApplication2.Context
         {
         }
 
-        public DbSet<Players> Players { get; set; }
+        public DbSet<Players> Students { get; set; }
 
         public async Task<int> SaveChanges()
         {

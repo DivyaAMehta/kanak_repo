@@ -1,3 +1,4 @@
+using EntityFrameworkCore.Context;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -11,9 +12,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using WebApplication2.Context;
 
-namespace WebApplication2
+namespace EntityFrameworkCore
 {
     public class Startup
     {
@@ -29,10 +29,9 @@ namespace WebApplication2
         {
             services.AddControllers();
             services.AddDbContext<ApplicationDbContext>(options =>
-               options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
-                   n => n.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
+              options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),
+                  n => n.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
             services.AddScoped<IApplicationDbContext>(provider => provider.GetService<ApplicationDbContext>());
-
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
